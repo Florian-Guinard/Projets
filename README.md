@@ -1,4 +1,4 @@
-Projet en MongoDB : faire les bonnes requêtes pour récupérer les données utiles pour les visualisations demandées sur python ou R. Sur ce 
+Projet en MongoDB : faire les bonnes requêtes pour récupérer les données utiles pour les visualisations demandées sur python ou R, sur ce 
 [lien](https://florian-guinard.github.io/Projet_MongoDB/).        
 
 
